@@ -11,6 +11,7 @@ Discord.js V13 Text command / Music bot OpenSource
 ## command
 
 .Play / .재생
+
 .Stop / .정지
 
 etc...
