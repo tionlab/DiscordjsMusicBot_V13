@@ -1,4 +1,4 @@
-# DiscordjsMusicBot_V13
+<h1 align="center"><img src="./assets/logo.gif" width="30px"> DiscordjsMusicBot_V13 <img src="./assets/logo.gif" width="30px">
 
 Discord.js V13 Text command / Music bot OpenSource
 
