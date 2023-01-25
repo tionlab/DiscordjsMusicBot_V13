@@ -1,0 +1,21 @@
+{
+    "name": "tionlab01musicbot",
+    "version": "1.0.0",
+    "description": "Musicbot-Tionlab01",
+    "author": "Tionlabs",
+    "main": "index.js",
+    "dependencies": {
+      "@discordjs/opus": "^0.7.0",
+      "@discordjs/voice": "^0.8.0",
+      "discord-player": "^5.2.2",
+      "discord.js": "^13.6.0",
+      "distube": "^3.3.2",
+      "ffmpeg-static": "^4.4.1",
+      "fs": "^0.0.1-security",
+      "yt-search": "^2.10.3"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "license": "ISC"
+}
