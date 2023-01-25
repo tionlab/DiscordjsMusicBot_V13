@@ -4,7 +4,9 @@ Discord.js V13 Text command / Music bot OpenSource
 
 ## Warning
 slashcommand? X
+
 discordjs V14? X
+
 No Bug? idk
 
 ## How to use?
